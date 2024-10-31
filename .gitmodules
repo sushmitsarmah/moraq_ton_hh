@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:sushmitsarmah/moraq_ton.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:sushmitsarmah/moraq_ton_frontend.git
+[submodule "contracts"]
+	path = contracts
+	url = git@github.com:sushmitsarmah/moraq_ton_contracts.git
